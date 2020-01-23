@@ -1,0 +1,116 @@
+.header {
+    background-color: lightgrey;
+    width: 842px;
+    height: 40px;
+    /* padding: 15px; */
+}
+h1 {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    display: inline;
+}
+.master {
+    text-align: right;
+    font-size: medium;
+    display: inline;
+    margin-left: 450px;
+    font-weight: 850;
+}
+
+.layout {
+    background-color: #27161c;
+    width: 842px;
+    /* height: 900px; */
+    /* padding: 15px; */
+}
+#pic{
+    width: 400px;
+    height: 300px;
+    vertical-align: top;
+    margin: 5px;
+    border: solid gray 4px;
+    display: inline-block;
+    margin-left: 12px;
+}
+.about{
+    width: 389px;
+    height: 308px;
+    background-color: whitesmoke;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 5px;
+    /* margin: 5px; */
+}
+.banner {
+    width: 250px;
+    height: 490px;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin: 12px;
+    font-size: small;
+    vertical-align: top;
+}
+.banner-title {
+    background-color: darkgrey;
+    width: 100%;
+    height: 20px;
+    /* padding: 5px; */
+    display: inline-block;
+    color: white;
+    font-size: large;
+    font-weight: 800;
+    /* padding-left:5px; */
+    
+}
+.technologies {
+    background-color: darkgrey;
+    width: 100%;
+    height: 26px;
+    /* padding: 5px; */
+    text-align: center;
+    display: inline-block;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.lamode {
+    margin-top: 77px;
+}
+.family{
+    margin-top: 46px;
+}
+
+.tech1 {
+    margin: 3px;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    background-color: lightgrey;
+    display: inline-block;
+    margin-top: 23px
+}
+.link {
+    font-style: italic;
+    text-decoration: underline;
+}
+.underline {
+    text-decoration: underline;
+}
+button {
+    background-color: green;
+    color: white;
+    margin: solid black 3px;
+    text-align: center;
+    border-radius: solid black 20px;
+    display: inline-block;
+    margin-left: 71px;
+    margin-top: -14px;
+}
+.lamodebtn {
+    vertical-align: top;
+}
